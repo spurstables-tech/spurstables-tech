@@ -2638,12 +2638,6 @@ input, select, textarea {
 				overflow-x: hidden;
 			}
 
-		/* Box */
-
-			.box br {
-				display: none;
-			}
-
 		/* Header */
 
 			#header {
